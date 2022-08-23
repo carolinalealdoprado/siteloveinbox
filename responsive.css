@@ -1,8 +1,9 @@
-@media (max-width: 1000px) {
-  main .container-main div {
-    margin: auto;
-  }
-  main .container-main img {
+@media (max-width: 1000px) 
+
+main .container-main div {
+  margin: auto;
+}
+main .container-main img {
     display: none;
   }
   h2 {
@@ -22,7 +23,7 @@
   textarea {
     margin: 12px;
   }
-}
+
 
 @media (max-width: 1000px) {
   .container {
@@ -78,7 +79,7 @@ main .container-menu img {
 label {
   cursor: pointer;
   position: relative;
-  display: block;
+  display: none;
   height: 22px;
   width: 30px;
 }
