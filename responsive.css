@@ -1,7 +1,8 @@
 @media (max-width: 1000px) 
 
-main .container-main div {
+{main.container-main div {
   margin: auto;
+}
 }
 main .container-main img {
     display: none;
